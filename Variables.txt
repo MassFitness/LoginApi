@@ -1,0 +1,6 @@
+Name->name
+Email->mail
+Password->passwd
+CPasssword->cpasswd
+AdminToken: [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzYzE4ODZiMzkwZTEzMDViODRlOWZjMSIsImlhdCI6MTY3MzYyNzc1NSwiZXhwIjoxNjczNzE0MTU1fQ.Y0O_3aCCGNF0Nd21WbB14uPjbHEEARhOMH01uAKenOo]
+GuitHubAccountpasswd: [$2b$10$l7r/jqRYMNMpgBqPDgmIX.eNXLreQqaVxvApWq.c495SiD5cDW.8a]
